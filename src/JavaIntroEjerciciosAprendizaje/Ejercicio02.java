@@ -31,7 +31,11 @@ public class Ejercicio02 {
         casado=true;
         talla=185;
                  
-        System.out.println("Nombre: " + nombre + ", Inicial: "+ letra + ", Edad: " + edad +" años, peso: " +peso +" kilogramos, talla: " +talla +" centímetros" );
+        System.out.println("Nombre: " + nombre );
+        System.out.println("Inicial: "+ letra  );
+        System.out.println("Edad: " + edad +" años");
+        System.out.println("Peso: " +peso +" kilogramos");
+        System.out.println("Talla: " +talla +" centímetros" );
     }
     
 }
